@@ -1,0 +1,16 @@
+Documents/Faculdade/ec2b  -- pasta dos arquivos
+
+cd  documents/faculdade/ec2b --entrar no diretorio
+ls -- mostrar arquivos na pasta
+git clone + link do repositorio-- https://github.com/izaiasn/ec2b.git
+
+git status -- estado do repositorio
+git add .  -- todo o diretorio para o repositório
+git add nome do arquivo-- o arqui enviado para repositorio
+git commit -m ''comentário' -- valida o arquivo local
+git push-- validar o arquivo no repositorio remoto
+git pull-- atualiza os arquivos da máquina
+
+
+
+
